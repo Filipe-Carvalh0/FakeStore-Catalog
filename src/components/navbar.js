@@ -3,7 +3,7 @@ function MenuNavbar() {
   <nav class="bg-stone-200 ">
     <div class="max-w-7xl mx-auto px-4">
       <div class="flex h-16 items-center justify-between"">
-      <a href="home.html" class="text-stone-800 font-semibold text-lg mr-3">
+      <a href="index.html" class="text-stone-800 font-semibold text-lg mr-3">
         API Stores
       </a>
     
@@ -14,7 +14,7 @@ function MenuNavbar() {
 
         <ul id="menu"
           class="hidden md:flex gap-6 text-stone-800 text-sm font-medium">
-          <li><a href="home.html" class="hover:bg-stone-400 p-2 rounded-xl">Home</a></li>
+          <li><a href="index.html" class="hover:bg-stone-400 p-2 rounded-xl">Home</a></li>
           <li><a href="about.html" class="hover:bg-stone-400 p-2 rounded-xl">About</a></li>
           <li><a target="_blank" class="hover:bg-stone-400 p-2 rounded-xl" href="https://github.com/Fi1ip-e/E-commerceAPI-basic?tab=readme-ov-file">Repositório</a></li>
         </ul> 
@@ -24,7 +24,7 @@ function MenuNavbar() {
 
     <ul id="menu-mobile"
       class="hidden flex-col gap-4 px-4 pb-4 md:hidden text-stone-800">
-      <li class="mb-1"><a href="home.html">Home</a></li>
+      <li class="mb-1"><a href="index.html">Home</a></li>
       <li class="mb-1"><a href="about.html">About</a></li>
       <li><a href="https://github.com/Fi1ip-e/E-commerceAPI-basic?tab=readme-ov-file">Repositório</a></li>
     </ul>
