@@ -41,3 +41,6 @@ O objetivo do projeto é demonstrar domínio dos conceitos base de frontend sem 
 - Responsividade com CSS Utility-first
 - Boas práticas de UX/UI
 - Estrutura pensada para escalabilidade
+
+## Link da Aplicação
+https://ecommerceproduct-api.netlify.app/
