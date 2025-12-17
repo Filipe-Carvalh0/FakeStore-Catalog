@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-image:
+    linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
+    url("../img/img-fundo-header.png");
+  background-repeat: repeat-x;
+  background-position: center;
+}
+
+.about-container {
+  display: flex;
+  justify-content: center;
+  padding: 3rem 1rem;
+}
+
+.about-card {
+  background-color: #fff;
+  max-width: 800px;
+  width: 100%;
+  padding: 2rem 2.5rem;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+}
+
+.about-card h1 {
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+}
+
+.about-card p {
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
+
+.about-card ul {
+  margin: 1rem 0 1.5rem 1.2rem;
+}
+
+.about-card li {
+  margin-bottom: 0.5rem;
+}
+
+.github-link {
+  display: inline-block;
+  margin-top: 1.5rem;
+  text-decoration: none;
+  background-color: #4169e1;
+  color: #fff;
+  padding: 0.6rem 1.2rem;
+  border-radius: 5px;
+  font-weight: 600;
+  transition: opacity 0.2s;
+}
+
+.github-link:hover {
+  opacity: 0.85;
+}
