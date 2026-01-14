@@ -8,13 +8,13 @@ O objetivo do projeto é demonstrar domínio dos conceitos base de frontend sem 
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **HTML5** — estrutura semântica
-- **CSS3**
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) — estrutura semântica
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   - Tailwind CSS (via CDN)
   - CSS tradicional para componentes específicos
-- **JavaScript (ES Modules)**
+- ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 - **FakeStore API**
-  - https://fakestoreapi.com/
+  - https://fakestoreapi.com/products
 
 ---
 
